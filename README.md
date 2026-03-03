@@ -46,6 +46,10 @@ The model was built and evaluated using the Kaggle Titanic competition dataset.
 - Kaggle Notebook Environment
 
 ---
+## 📊 Model Performance
+
+- Local Validation Accuracy: ~81%
+- Kaggle Public Leaderboard Score: 0.78468
 
 ## 🚀 Future Improvements
 
